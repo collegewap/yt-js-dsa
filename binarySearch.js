@@ -21,3 +21,5 @@ function binarySearch(items, num) {
 console.log(
     binarySearch([5, 8, 10, 15, 16, 21, 40, 63], 16)
 )
+
+// O(log n)
